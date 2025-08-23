@@ -2,7 +2,7 @@
     "name": "Kerm Session Generator",
     "description": "I'm Web Session Generator by Kg Tech",
     "logo": "",
-    "repository": "https://github.com/NjabuloJ/onlinebw-pair",
+    "repository": "https://github.com/NjabuloJ/paircode",
     "keywords": ["@Xcelsama"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
